@@ -1,3 +1,8 @@
+This is the repository for **AID: Attribute-Inference for out-of-set Detection**, a project me and my colleagues worked on in 2019/2020 at Politecnico of Tourin.
+You can find both the paper and the code developed.
+
+Here's the Abstract:
+
 *Collecting and labeling training samples starting from
 unlabeled data is a long and tedious task, as it requires
 great manual human effort. Moreover, collecting training
