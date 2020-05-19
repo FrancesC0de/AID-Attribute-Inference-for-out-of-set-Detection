@@ -17,7 +17,7 @@ from the known in-set samples. We demonstrate how these
 two approaches can be directly merged into a single one and
 into a single Deep Neural Network as well. We also show
 that, despite the simplicity and the plug-and-play nature of
-the method, the performances are satisfactory and the results are credible and reasonable*
+the method, the performances are satisfactory and the results are credible and reasonable.*
 
 ![Results](/results.jpg)
 
